@@ -126,6 +126,7 @@ h2 {
   margin-top: 20px;
   flex-wrap: wrap;
   padding: 5px;
+  overflow: hidden;
 }
 
 .emulator-container {
