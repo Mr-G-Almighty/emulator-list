@@ -188,7 +188,9 @@ h2 {
   background-image: url(../img/microsoft-xbox-icon.png);
 }
 #arcade {
-  background-image: url(../img/);
+  background-image: url(../img/arcade-icon.png);
+  background-size: 35px;
+  background-position: center 2.1vw;
 }
 
 h3, p {
