@@ -212,7 +212,9 @@ h3, p {
   text-align: center;
 }
 
-
+.inner-container p {
+  margin-top: 4px;
+}
 
 
 
